@@ -1,7 +1,7 @@
 package guess_number_test
 
 import (
-	. "github.com/gobasic/game/guess_number"
+	. "github.com/golang-basic/game/guess_number"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
